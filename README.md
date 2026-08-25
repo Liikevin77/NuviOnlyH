@@ -13,6 +13,23 @@ this is forked just to works without P2P extension (Torrentio)
    ```
 4. Enable the scrapers you want to use
 
+If you want to use the manifest wihout Anime 
+
+without P2P extension (Torrentio) and without Anime content 🚫
+
+Installation
+Open Nuvio app
+Go to Settings → Local Scrapers
+Add this repository URL:
+
+
+ ```
+
+https://raw.githubusercontent.com/Liikevin77/NuviOnlyH/NuviOnlyMS/manifest.json
+
+```
+
+
 ## Available Scrapers 
 
 | Provider | Language | Content | Quality | NuvioApp | NuvioTV |
